@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshit040504/Leetcode/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/akshit040504/Leetcode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshit040504/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/akshit040504/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/akshit040504/Leetcode/tree/master/0079-word-search) |
+| [0412-fizz-buzz](https://github.com/akshit040504/Leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/akshit040504/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/akshit040504/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
