@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshit040504/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/akshit040504/Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/akshit040504/Leetcode/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/akshit040504/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
