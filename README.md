@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/akshit040504/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/akshit040504/Leetcode/tree/master/0079-word-search) |
 | [0287-find-the-duplicate-number](https://github.com/akshit040504/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshit040504/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/akshit040504/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/akshit040504/Leetcode/tree/master/0056-merge-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshit040504/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshit040504/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshit040504/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/akshit040504/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshit040504/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/akshit040504/Leetcode/tree/master/0412-fizz-buzz) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshit040504/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
